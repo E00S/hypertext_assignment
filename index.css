@@ -1,0 +1,14 @@
+body {
+	background: url(pong.gif) black;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: center;
+}	
+
+img {
+	display: block;
+  	margin-left: auto;
+ 	margin-right: auto;
+	max-width: 100%;
+ 	height: auto;
+}
